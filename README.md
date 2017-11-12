@@ -1,4 +1,5 @@
-# hello-world
-Just another repository
+# A List of Useful Resources for Front End Developers
+---
+## Table of Contents
 
-Making an edit as I was requested to.
+ - [Learning](#learning)
