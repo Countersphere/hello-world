@@ -13,7 +13,7 @@
 ---
 ## Table of Contents
 
- - [Learning](#learning)
+ * [Learning](#learning)
  - [Youtube channels](#youtube-channels)
  - [Blogs](#blogs)
  - [Code Editors](#code-editors)
