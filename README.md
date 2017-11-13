@@ -6,7 +6,6 @@
 [![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/Countersphere/hello-world.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FCountersphere%2Fhello-world)
 
-
 # A List of Useful Resources for Front End Developers
 ---
 ## Table of Contents
@@ -23,11 +22,13 @@
  - [Design Inspiration](#design-inspiration)
  - [Animation Frameworks](#animation-frameworks)
  - [Stock Resources](#stock-resources)
- - [Geolocation](#geolocation)
+
+- [Geolocation](#geolocation)
  - [APIs](#apis)
  - [Mockups](#mockups)
  - [Books](#books)
- - [Challenges](#challenges)
+
+- [Challenges](#challenges)
 
 ---
 ## Learning
@@ -43,6 +44,7 @@
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [freeCodeCamp](https://www.freecodecamp.org):thumbsup: - A free resource incorporating programming projects and interview preparation for developer jobs.
 * [Grid Garden](http://cssgridgarden.com/) - Interactive CSS code game. Practice your CSS skills by watering your garden!
+* [Learnvern](http://www.learnvern.com/)
 * [LearnAnything](https://learn-anything.xyz/) - Search interactive mind maps to learn anything.
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/):thumbsup: - The latest information about Open Web technologies.
 * [Pluralsight](https://www.pluralsight.com/) - Unlimited online developer training from industry experts.
